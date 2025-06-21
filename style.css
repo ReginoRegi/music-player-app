@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+input {
+  padding: 10px;
+  width: 300px;
+  font-size: 16px;
+}
+.track {
+  margin-top: 15px;
+  padding: 10px;
+  background: #f0f0f0;
+}
